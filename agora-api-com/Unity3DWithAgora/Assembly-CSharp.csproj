@@ -52,6 +52,9 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>E:/P/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
+ <Reference Include="Interop.AgoraRtcEngineControlLib">
+ <HintPath>D:/Work/Mix/AgoraDemo/agora-api-com/Unity3DWithAgora/Assets/Plugins/Interop.AgoraRtcEngineControlLib.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
