@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{46AA2D1F-15A5-1965-CE46-47D1C4E40EC5}") = "Unity3DWithAgora", "Assembly-CSharp.csproj", "{07429358-A156-4938-7215-12D800624949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07429358-A156-4938-7215-12D800624949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07429358-A156-4938-7215-12D800624949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07429358-A156-4938-7215-12D800624949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07429358-A156-4938-7215-12D800624949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
